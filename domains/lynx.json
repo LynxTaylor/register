@@ -1,0 +1,11 @@
+{
+    "description": "Lynx's Page",
+    "repo": "https://github.com/TaylorLynx/TaylorLynx.github.io",
+    "owner": {
+        "username": "TaylorLynx",
+        "email": "namhungtb19@gmail.com"
+    },
+    "record": {
+        "CNAME": "TaylorLynx.github.io"
+    }
+} 
